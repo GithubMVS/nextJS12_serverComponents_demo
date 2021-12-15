@@ -1,0 +1,21 @@
+{
+  "name": "my-app",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "moment": "^2.29.1",
+    "next": "12.0.7",
+    "react": "^18.0.0-rc.0-next-f2a59df48-20211208",
+    "react-dom": "^18.0.0-rc.0-next-f2a59df48-20211208",
+    "simple-rating-stars": "^1.6.0"
+  },
+  "devDependencies": {
+    "eslint": "8.4.1",
+    "eslint-config-next": "12.0.7"
+  }
+}
